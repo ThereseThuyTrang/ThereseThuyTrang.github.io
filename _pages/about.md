@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. PhD Candidate at IAE Toulon.
+subtitle: PhD Candidate at IAE Toulon.
 
 profile:
   align: right
